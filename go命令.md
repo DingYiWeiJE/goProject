@@ -4,4 +4,4 @@
 
 编译： go build 文件名称
 
-格式化： gofmt -w 文件名 称
+格式化： gofmt -w 文件名称
